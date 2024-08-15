@@ -68,7 +68,7 @@ public class EMCCondenserTile extends ExtendBlockEntity implements BlockEntityTi
     }
 
     public int getMaxCoolDown() {
-        return 2; // tick
+        return 1; // tick
     }
 
     @Override
